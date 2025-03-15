@@ -1,1 +1,1 @@
-# mac-greeter-
+# mac-greeter
